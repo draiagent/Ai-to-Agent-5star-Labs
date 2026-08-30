@@ -208,11 +208,14 @@ VAD 在本專案承擔三個功能：
 ```text
 Ai-to-Agent-5star-Labs/
 ├── README.md
+├── LICENSE
 ├── CONTRIBUTING.md
 ├── docs/
 │   ├── 5star-selection.md
 │   ├── course-blueprint.md
 │   └── origin-vs-github.md
+├── labs/
+│   └── 2026-08-30-datawhale-hello-agents.md
 └── templates/
     └── lab-note.md
 ```
@@ -264,6 +267,13 @@ Ai-to-Agent-5star-Labs/
 - **成本可見：**模型、Token、API、人工修正與維運成本都要記錄。
 - **高風險升級：**未知、不可逆或高風險任務需要高階模型與人工核准。
 - **能力複利：**成功方法轉為 VAC，讓下一次不必從零開始。
+
+## 授權
+
+本專案內容（README、docs、templates、labs 等文字教材）採用
+[**CC BY-SA 4.0**](LICENSE)：可自由分享與改作，但須姓名標示，且衍生作品需以相同授權釋出。
+
+引用之第三方程式、模型與教材，仍依其各自原始授權為準；本專案只做摘要、改寫與連結，不整段轉載原文。
 
 ## 品牌與作者
 
