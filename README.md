@@ -225,7 +225,7 @@ Ai-to-Agent-5star-Labs/
 ### 教師／講師
 
 1. 選擇一個 Lab 與一個具體主題。
-2. 使用 [`templates/lab-note.md`](templates/lab-note.md) 建立實驗紀錄。
+2. 使用 [`templates/lab-note.md`](templates/lab-note.md) 建立實驗紀錄，可參考範例 [`labs/2026-08-30-datawhale-hello-agents.md`](labs/2026-08-30-datawhale-hello-agents.md)。
 3. 補上官方來源、版本與授權。
 4. 完成 VAD 流程與 VAC 能力規格。
 5. 設計課堂任務與驗收量表。
