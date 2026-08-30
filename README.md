@@ -2,10 +2,10 @@
 
 > **AI Coach 益力康陳董｜2026 AI to Agent**
 
-[![Language](https://img.shields.io/badge/Language-繁體中文-00B8A9)](#)
-[![Focus](https://img.shields.io/badge/Focus-AI%20to%20Agent-2563EB)](#)
-[![Method](https://img.shields.io/badge/Method-VAD%20%2F%20VAC-7C3AED)](#)
-[![Status](https://img.shields.io/badge/Status-Living%20Labs-F59E0B)](#)
+[![Language](https://img.shields.io/badge/Language-繁體中文-00B8A9)](CONTRIBUTING.md)
+[![Focus](https://img.shields.io/badge/Focus-AI%20to%20Agent-2563EB)](#一句話定義)
+[![Method](https://img.shields.io/badge/Method-VAD%20%2F%20VAC-7C3AED)](docs/course-blueprint.md)
+[![Status](https://img.shields.io/badge/Status-Living%20Labs-F59E0B)](docs/5star-selection.md)
 
 **Ai-to-Agent-5star-Labs** 是一套面向公開教學、企業培訓與自主學習的 AI Agent 教材研究系統。它從五個高品質、可公開存取且持續更新的生態中，蒐集程式、模型、中文教材、實作案例與開發者真實問題，再透過 **Verify → VAD → VAC**，轉化成可教、可做、可驗收、可重用的課程能力。
 
@@ -136,7 +136,7 @@ V2EX 的 AI Agent 智能體節點集中討論 Skills、MCP、Tool Use、Workflow
 | 構面 | 判斷問題 | 最低要求 |
 |---|---|---|
 | **存在性** | 官方頁面、Repo 或節點是否能正常存取？ | 可公開驗證 |
-| **活躍度** | 近六個月是否有更新、Release 或新討論？ | 至少一項成立 |
+| **活躍度** | 近三個月是否持續更新？至少近六個月是否有更新、Release 或新討論？ | 近六個月至少一項成立（近三個月更新為佳，評分細節見評選文件） |
 | **Agent 關聯** | 是否直接涵蓋 Agent、Skill、MCP、Tool、Workflow 或 Evaluation？ | 高度相關 |
 | **教材價值** | 是否具備可學習、可實作或可討論的材料？ | 可形成教案 |
 | **可驗證性** | 是否能追溯來源、版本、程式或討論？ | 有原始連結 |
