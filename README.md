@@ -211,7 +211,8 @@ Ai-to-Agent-5star-Labs/
 ├── CONTRIBUTING.md
 ├── docs/
 │   ├── 5star-selection.md
-│   └── course-blueprint.md
+│   ├── course-blueprint.md
+│   └── origin-vs-github.md
 └── templates/
     └── lab-note.md
 ```
